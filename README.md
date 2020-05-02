@@ -27,7 +27,9 @@ flutter config --enable-linux-desktop
 
 and run application to specific platform using this command:
 
-```flutter run -d "mac|windows|linux|chrome(web)|android|IOS"````
+```
+flutter run -d "mac|windows|linux|chrome(web)|android|IOS"
+```
 
 
 
