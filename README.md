@@ -21,7 +21,8 @@ you are on a flutter sdk's master branch and add support for all platforms using
 ```flutter config --enable-web
 flutter config --enable-macos-desktop
 flutter config --enable-windows-desktop
-flutter config --enable-linux-desktop```
+flutter config --enable-linux-desktop
+```
 
 
 and run application to specific platform using this command:
